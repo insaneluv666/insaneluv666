@@ -1,7 +1,8 @@
-<li>
-<ul>My name is Artem, I'm from Moscow (nickname: Insane Luv)</ul>
-<ul>I'm FrontEnd developer and Designer</ul>
-</li><br>
+###About Me
+Name: Artem
+Nickname: Insane Luv
+Location: Moscow
+I'm FrontEnd developer and Designer
 
 ### Dev Skills 
 <p align="left">

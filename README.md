@@ -1,8 +1,8 @@
 ###About Me
-Name: Artem
-Nickname: Insane Luv
-Location: Moscow
-I'm FrontEnd developer and Designer
+<p>Name: Artem</p><br>
+<p>Nickname: Insane Luv</p><br>
+<p>Location: Moscow</p><br>
+<p>I'm FrontEnd developer and Designer</p><br>
 
 ### Dev Skills 
 <p align="left">

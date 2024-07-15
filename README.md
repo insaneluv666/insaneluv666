@@ -1,8 +1,8 @@
 ### About Me
-<p>· Name: Artem</p>
-<p>· Nickname: Insane Luv</p>
-<p>· Location: Moscow</p>
-<p>· I'm FrontEnd developer and Designer</p>
+<p><b>·</b> Name: Artem</p>
+<p><b>·</b> Nickname: Insane Luv</p>
+<p><b>·</b> Location: Moscow</p>
+<p><b>·</b> I'm FrontEnd developer and Designer</p>
 
 ### Dev Skills 
 <p align="left">

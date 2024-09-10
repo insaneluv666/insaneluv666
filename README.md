@@ -17,7 +17,7 @@
 <img width="36" heigh="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img width="36" heigh="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img width="36" heigh="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<i style="font-size: 36" class="devicon-reactrouter-plain-wordmark colored"></i>
+<i class="devicon-reactrouter-plain-wordmark colored"></i>
 </p>
               
 ### Design Skills
